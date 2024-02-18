@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": true
         }
-    }
+    },
+    "appVersion": "1.1.30",
+    "buildNumber": 30,
+    "runtimeUrl": "https://mobile.mun.gov.bh/"
 }
