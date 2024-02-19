@@ -8,7 +8,7 @@
     },
     "deviceTarget": {
         "phone": true,
-        "tablet": false
+        "tablet": true
     },
     "orientation": {
         "portrait": true,
@@ -121,8 +121,5 @@
         "nativeOTA": {
             "enabled": true
         }
-    },
-    "appVersion": "0.0.2",
-    "buildNumber": 2,
-    "runtimeUrl": "https://mobile.mun.gov.bh/"
+    }
 }
