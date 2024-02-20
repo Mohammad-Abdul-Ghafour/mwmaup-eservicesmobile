@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": true
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "http://10.199.179.11:8082/"
 }
