@@ -122,7 +122,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.6",
-    "buildNumber": 6,
+    "appVersion": "0.0.8",
+    "buildNumber": 8,
     "runtimeUrl": "http://10.199.179.11:8082/"
 }
